@@ -1,2 +1,2 @@
-# Pdf Lector
+# IA Pdf Lector
  Lector de PDF con Langchain
