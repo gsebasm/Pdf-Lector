@@ -93,7 +93,5 @@ def main():
             #creando la chain y conversacion 
                st.session_state.conversation = get_conversation_chain(vectorstore)
    
-
-
 if __name__ == '__main__':
     main()
