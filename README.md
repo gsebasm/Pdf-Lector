@@ -2,10 +2,6 @@
 
 Lector de PDF con Langchain
 
-# Nombre del Proyecto
-
-Descripción breve de tu proyecto.
-
 ## Requisitos
 
 - Python 3.11.8
